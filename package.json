@@ -1,0 +1,23 @@
+{
+  "name": "jscalendar",
+  "version": "1.0.0",
+  "description": "Javascript Calendar Server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeounoh/jscalendar.git"
+  },
+  "author": "yeounohster@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeounoh/jscalendar/issues"
+  },
+  "homepage": "https://github.com/yeounoh/jscalendar#readme"
+}
